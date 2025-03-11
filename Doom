@@ -4,7 +4,7 @@
 
 <head>
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="css/styles.css">
 
 <!--cinzel-->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,21 +23,25 @@
 
 
     <div class="center">
-        <img src="Bruh.png" alt="Name">
+        <img src="./img/Bruh.png.png" alt="Name">
 
     </div>
 
-    <div>
-        <h1>
+    <div id="Medieval">
+  
+   <pre> <h1> Birthdate: September 26,2006             Email:damianclaygonzalez@gmail.com               ID#25006388</h1> </pre>
+
+
+     </div>
 
 
     
     
-    
+    <!--
     <div class="cinzel">
     <p>WELCOME DEAR READER, THIS IS THE ASD ASDASDSADSADSADSADASD|</p>
     </div>
-
+-->
 
 
 
