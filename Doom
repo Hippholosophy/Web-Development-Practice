@@ -4,7 +4,7 @@
 
 <head>
 
-<link rel="stylesheet" href="/css/styles.css">
+<link rel="stylesheet" href="styles.css">
 
 <!--cinzel-->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,55 +23,40 @@
 
 
     <div class="center">
-        <img src="Bruh.png" alt="Name">
+        <img src="Bruh.png" alt="Nam"> 
 
     </div>
 
     <div class="Medieval">
-        <h1> SEPTEMBER 26,2006<span id="header">damianclaygonzalez@gmail.com</span><span id="header">ID#250036777</span> </h1>
+        <h1> SEPTEMBER 26,2006<span id="header">damianclaygonzalez@gmail.com</span><span><span id="header">ID#250036777</span> </h1>
   </div>
     
     
-    <div class="left"> <!--this Goes first must have more-->
+<div class="left"> <!--this Goes first must have more-->
     <p>WELCOME DEAR READER, IN THE FIRST AGE, WHEN SHADOWS FIRST LENGTHENED<br>
         HE WAS A MAN 18 YEARS OF AGE WITH THE BIRTHDATE OF SEPTEMBER 26,2006.<br>
        HOLDING  INCOMPREHENSIBLE POWER AND UNDERSTANDING. HE IS A MAN<br>
-     
-
-
-
-
-
-
-
-
-
-    </p>
+       FILLED WITH DETERMINATION HE WILL LEARN ALL THAT IS NEEDED. <br>
+       TO BE HE HAS HIS LIKES, WHICH ARE BOTH BEASTS OF ABSOLUTE HORROR<br>
+       (I.E CATS AND DOGS RESPECTIVELY) THE MAN DURING HIS FREE TIME<br>
+       NOVELS OF ADVENTURE AND WISDOM, WHILE HE IS KEEN ON HIS MIND<br>
+       TRAIN HIS BODY RIGOROUSLY IN HIS FREE TIME. HE IS A PRACTICIONER<br>
+       THE BOOK OF MARCUS AURELIUS "MEDITATIONS". THIS WAS THE PROPHECY<br>
+       OF DAMIAN<br>
+     </p>
     </div>
 
-    <div class="right">
+<div class="right">
         <p>THERE WAS  A MAN PEOPLE DUB HIM AS DAMIAN CLAY G. TOBEROS.<br>
           <span id="One"> A MAN INDULGING IN THE KNOWLEDGE OF MACHINES WITH IT</span><br>
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        </p>
+          <span id="Two">WHO IS LEARNING AT THE SCHOOL "UNIVERSITY OF CEBU"<br>
+           <span id="Three"> THE MAN IS NOT AS UNEXPRESSIVE AS HE IS THOUGHT OUT<br>
+           <span id="Four">AND BEASTS OF ABSOLUTE VIRTUOUS LOYALTY.<br>
+           <span id="Five">WALLOWS IN THE ART OF LITERATURE  READING THE<br>
+           <span id="Six">HE IS MORE KEEN ON THE BODY AS HE GOES TO<br>
+           <span id="Seven">OF THE PHILOSOPHY STOICISM BEARING <br>
+           <span id="Eight">AND THE LEGENDARY INTRODUCTION 
+         </p>
     </div>
 
 
