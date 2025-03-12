@@ -4,7 +4,7 @@
 
 <head>
 
-<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="/css/styles.css">
 
 <!--cinzel-->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,33 +23,57 @@
 
 
     <div class="center">
-        <img src="./img/Bruh.png.png" alt="Name">
+        <img src="Bruh.png" alt="Name">
 
     </div>
 
-    <div id="Medieval">
-  
-   <pre> <h1> Birthdate: September 26,2006             Email:damianclaygonzalez@gmail.com               ID#25006388</h1> </pre>
-
-
-     </div>
-
-
+    <div class="Medieval">
+        <h1> SEPTEMBER 26,2006<span id="header">damianclaygonzalez@gmail.com</span><span id="header">ID#250036777</span> </h1>
+  </div>
     
     
-    <!--
-    <div class="cinzel">
-    <p>WELCOME DEAR READER, THIS IS THE ASD ASDASDSADSADSADSADASD|</p>
+    <div class="left"> <!--this Goes first must have more-->
+    <p>WELCOME DEAR READER, IN THE FIRST AGE, WHEN SHADOWS FIRST LENGTHENED<br>
+        HE WAS A MAN 18 YEARS OF AGE WITH THE BIRTHDATE OF SEPTEMBER 26,2006.<br>
+       HOLDING  INCOMPREHENSIBLE POWER AND UNDERSTANDING. HE IS A MAN<br>
+     
+
+
+
+
+
+
+
+
+
+    </p>
     </div>
--->
 
-
+    <div class="right">
+        <p>THERE WAS  A MAN PEOPLE DUB HIM AS DAMIAN CLAY G. TOBEROS.<br>
+          <span id="One"> A MAN INDULGING IN THE KNOWLEDGE OF MACHINES WITH IT</span><br>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </p>
+    </div>
 
 
 </body>
-
-
-
-
-
 </html>
