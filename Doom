@@ -1,9 +1,7 @@
-body{ background-image: url(Doom.png);
-
+body{ background-image: url(../img/Doob.png);
     background-repeat: no-repeat;
     width: 100%;
     height: 100%;
-
 }
 
 .center{
@@ -82,18 +80,18 @@ h1 {font-family: "Cinzel", serif;
 
 #header{ margin-left: 8em;}
 
-#One { margin-left: 1em;}
+#One { margin-right: 15em;}
 
-#Two{ margin-left: 3em;}
+#Two{ margin-left: 5em;}
 
-#Three { margin-left:3em;}
+#Three { margin-left:6em;}
 
-#Four {margin-left:5em;}
+#Four {margin-left:7em;}
 
-#Five{margin-left:6em;}
+#Five{margin-left:8em;}
 
-#Six{margin-left: 9em;}
+#Six{margin-left: 11em;}
 
-#Seven{margin-left: 11em;}
+#Seven{margin-left: 13em;}
 
-#Eight{margin-left:12em;}
+#Eight{margin-left:15em;}
